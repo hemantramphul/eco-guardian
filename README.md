@@ -1,4 +1,4 @@
-# Eco-Guardian: A simulation of environmental stewardship
+# Eco-Guardian: A Simulation of Environmental Stewardship
 
 ## WHAT IS IT?
 
@@ -49,7 +49,7 @@ The model follows these rules:
 
 Author: [Hemant Ramphul](https://github.com/hemantramphul/)<br/>
 Date: June 28, 2024  
-Project: Eco-Guardian - A simulation of environmental stewardship
+Project: Eco-Guardian: A Simulation of Environmental Stewardship
 
 For more information and updates, visit the project's URL: [Eco-Guardian](https://github.com/hemantramphul/eco-guardian/)
 
