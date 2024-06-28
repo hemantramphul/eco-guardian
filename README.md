@@ -1,5 +1,8 @@
 # Eco-Guardian: A Simulation of Environmental Stewardship
 
+https://github.com/hemantramphul/eco-guardian/assets/7212627/3e6085ee-0ba1-4c92-bfca-eedf718b2995
+
+
 ## WHAT IS IT?
 
 This NetLogo simulation, "Eco-Guardian," models the actions of a person character who cleans up garbage and plants trees and plants to restore the environment. The goal is to collect all garbage items (bottles, foods, and bananas) and plant trees and plants. The simulation stops when all garbage is collected, signifying the restoration of the environment.
