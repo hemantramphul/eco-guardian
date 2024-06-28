@@ -47,10 +47,10 @@ The model follows these rules:
 
 ## CREDITS AND REFERENCES
 
-Author: Hemant Ramphul  
+Author: [Hemant Ramphul](https://github.com/hemantramphul/)
 Date: June 28, 2024  
-Project: Eco-Guardian - A Simulation of Environmental Stewardship
+Project: Eco-Guardian - A simulation of environmental stewardship
 
-For more information and updates, visit the project's URL: [URL to be added]
+For more information and updates, visit the project's URL: [Eco-Guardian](https://github.com/hemantramphul/eco-guardian/)
 
 Feel free to reference this model in your projects and studies, giving appropriate credit to the author.
