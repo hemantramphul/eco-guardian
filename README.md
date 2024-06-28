@@ -47,7 +47,7 @@ The model follows these rules:
 
 ## CREDITS AND REFERENCES
 
-Author: [Hemant Ramphul](https://github.com/hemantramphul/)
+Author: [Hemant Ramphul](https://github.com/hemantramphul/)<br/>
 Date: June 28, 2024  
 Project: Eco-Guardian - A simulation of environmental stewardship
 
